@@ -4,6 +4,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/Solution Items/" />
   <Project Path="HPC_Lab01/HPC_Lab01.vcxproj" Id="3613776b-d976-44a2-aebe-20babb501e05" />
   <Project Path="HPC_Lab02/HPC_Lab02.vcxproj" Id="3972d216-51ac-4afa-9beb-8c94c665ef8e" />
   <Project Path="HPC_Lab03/HPC_Lab03.vcxproj" Id="b2b37843-5d69-4231-85ae-e4c0c979548e" />
@@ -12,4 +13,9 @@
   <Project Path="HPC_Lab07/HPC_Lab07.vcxproj">
     <Platform Project="x64" />
   </Project>
+  <Project Path="HPC_Lab08/HPC_Lab08_Dispatcher.csproj" />
+  <Project Path="HPC_Lab08_Worker1/HPC_Lab08_Worker1.csproj" />
+  <Project Path="HPC_Lab08_Worker2/HPC_Lab08_Worker2.csproj" />
+  <Project Path="HPC_Lab08_Worker3/HPC_Lab08_Worker3.csproj" />
+  <Project Path="HPC_Lab08_Worker4/HPC_Lab08_Worker4.csproj" />
 </Solution>
