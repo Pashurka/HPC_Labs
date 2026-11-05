@@ -59,8 +59,11 @@ HPC_Labs/
 ├── HPC_Lab04/
 ├── HPC_Lab05/
 ├── HPC_Lab07/
-├── HPC_Lab08/
-├── Backup/
+├── HPC_Lab08_Dispatcher/
+├── HPC_Lab08_Worker1/
+├── HPC_Lab08_Worker2/
+├── HPC_Lab08_Worker3/
+├── HPC_Lab08_Worker4/
 └── HPC_Labs.slnx
 ```
 
