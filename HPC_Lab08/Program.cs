@@ -9,7 +9,7 @@ using System.Collections.Generic;
 class Program
 {
     // Загальний розмір вектора, який оброблятимуть Worker
-    public static int vectorSize = 2_128_000_000;
+    public static int vectorSize = 1_000_000_000;
 
     // Кількість клієнтів, які будуть задіяні в обробці
     static int workersToTest = 4;
